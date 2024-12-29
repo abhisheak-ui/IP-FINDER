@@ -1,7 +1,4 @@
-import sys
-import os
-import socket
-os.system("figlet DDOS")
+
 
 def get_ip_address(url):
     try:
