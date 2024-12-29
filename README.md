@@ -13,7 +13,7 @@ $ cd IP-FINDER
 
 $ chmod +x IP-FINDER.py
 
-$ python2 IP-FINDER.py
+$ python IP-FINDER.py
 
 To Run
 
