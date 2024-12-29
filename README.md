@@ -19,4 +19,4 @@ To Run
 
 $ cd IP-FINDER
 
-$ python2 IP-FINDER.py
+$ python IP-FINDER.py
